@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Data files (to ignore the data directory)
-data/
+# data/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
